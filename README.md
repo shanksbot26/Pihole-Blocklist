@@ -13,4 +13,4 @@ Daftar blokir domain kustom pribadi untuk Pi-hole dan DNS sinkhole lainnya. Beri
 Gunakan tautan langsung berikut untuk ditambahkan ke Pi-hole:
 
 ```text
-[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<USERNAME>/<REPO>/main/my-blocklist.txt
+https://raw.githubusercontent.com/shanksbot26/Pihole-Blocklist/refs/heads/main/blocklist.txt
