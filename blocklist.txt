@@ -8,7 +8,7 @@
 0.0.0.0 kompas.com
 0.0.0.0 detik.com
 0.0.0.0 artgrass.asia
-jodies.d
+jodies.de
 
 # ===============================================================
 # End of blocklist
