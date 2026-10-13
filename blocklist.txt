@@ -27,6 +27,32 @@ app.getsentry.com
 api.bugsnag.com
 app.bugsnag.com
 
+# TikTok
+log.byteoversea.com
+
+# Reddit
+events.reddit.com
+
+#Yaahoo
+udcm.yahoo.com
+log.fc.yahoo.com
+
+#Yandex
+appmetrica.yandex.ru
+metrika.yandex.ru
+
+# Xiaomi
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+
+#Apple
+api-adservices.apple.com
+books-analytics-events.apple.com
+
+#Samsung
+samsung-com.112.2o7.net
+analytics-api.samsunghealthcn.com
+
 # ===============================================================
 # End of blocklist
 # ===============================================================
