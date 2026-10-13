@@ -7,7 +7,7 @@
 # Test Web
 0.0.0.0 kompas.com
 0.0.0.0 detik.com
-0.0.0.0 artgrass.asia
+0.0.0.0 www.artgrass.asia
 jodies.de
 
 # ===============================================================
