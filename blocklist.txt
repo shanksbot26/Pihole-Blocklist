@@ -9,6 +9,23 @@ identify.hotjar.com
 insights.hotjar.com
 surveys.hotjar.com
 
+#MouseFlow
+api.mouseflow.com
+tools.mouseflow.com
+
+#Luckyorange
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+#Bugsnag
+api.bugsnag.com
+app.bugsnag.com
 
 # ===============================================================
 # End of blocklist
