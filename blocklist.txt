@@ -4,11 +4,11 @@
 # Format: Hosts
 # ===============================================================
 
-# Test Web
-0.0.0.0 kompas.com
-0.0.0.0 detik.com
-0.0.0.0 www.artgrass.asia
-jodies.de
+# Hotjar
+identify.hotjar.com
+insights.hotjar.com
+surveys.hotjar.com
+
 
 # ===============================================================
 # End of blocklist
