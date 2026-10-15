@@ -1,0 +1,13 @@
+name: Auto Update Pi-hole Gravity
+
+on:
+  push:
+    branches:
+      - main # Ganti ke master jika branch utama kamu bernama master
+
+jobs:
+  update-gravity:
+    runs-on: self-hosted
+    steps:
+      - name: Jalankan pihole -g
+        run: pihole -g
