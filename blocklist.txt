@@ -53,6 +53,10 @@ books-analytics-events.apple.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 
+#Test
+cobacoba.net
+woiii.net
+
 # ===============================================================
 # Wes Cukup Sak Mene Ae
 # ===============================================================
