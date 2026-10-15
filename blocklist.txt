@@ -54,5 +54,5 @@ samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 
 # ===============================================================
-# End of blocklist
+# Wes Cukup Sak Mene Ae
 # ===============================================================
