@@ -53,6 +53,14 @@ books-analytics-events.apple.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 
+#Huawei
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+
 # ===============================================================
 # Wes Cukup Sak Mene Ae
 # ===============================================================
