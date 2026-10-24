@@ -66,6 +66,33 @@ freshmarketer.com
 claritybt.freshmarketer.com
 fwtracks.freshmarketer.com
 
+#Bing Ads 
+ads.microsoft.com
+pubmatic.com
+liftoff.io
+cdn.indexexchange.com
+ironSource.mobi
+pangleglobal.com
+cdn.kargo.com
+sync.kargo.com
+youtubei.googleapis.com
+redirector.googlevideo.com
+s.youtube.com
+fingerprintjs.com
+siftscience.com
+thetradedesk.com
+prod.uidapi.com
+bnc.lt
+clevertap-prod.com
+2giga.link
+greatis.com
+mineralt.io
+dai.google.com
+imasdk.googleapis.com
+ssl.p.jwpcdn.com
+mssl.fwmrm.net
+
+
 # ===============================================================
 # Wes Cukup Sak Mene Ae
 # ===============================================================
