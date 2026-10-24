@@ -61,6 +61,11 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logbak.hicloud.com
 
+#FreshWorks
+freshmarketer.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+
 # ===============================================================
 # Wes Cukup Sak Mene Ae
 # ===============================================================
