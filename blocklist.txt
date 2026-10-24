@@ -75,9 +75,6 @@ ironSource.mobi
 pangleglobal.com
 cdn.kargo.com
 sync.kargo.com
-youtubei.googleapis.com
-redirector.googlevideo.com
-s.youtube.com
 fingerprintjs.com
 siftscience.com
 thetradedesk.com
@@ -96,8 +93,6 @@ s.clarity.ms
 in.hotjar.com
 rs.fullstory.com
 d.reddit.com
-graph.instagram.com
-i.instagram.com
 ads-api.x.com
 ads.x.com
 pixel.quora.com
