@@ -91,7 +91,18 @@ dai.google.com
 imasdk.googleapis.com
 ssl.p.jwpcdn.com
 mssl.fwmrm.net
-
+analytics.adobe.io
+s.clarity.ms
+in.hotjar.com
+rs.fullstory.com
+d.reddit.com
+graph.instagram.com
+i.instagram.com
+ads-api.x.com
+ads.x.com
+pixel.quora.com
+px.srvcs.tumblr.com
+vk.com/rtrg
 
 # ===============================================================
 # Wes Cukup Sak Mene Ae
